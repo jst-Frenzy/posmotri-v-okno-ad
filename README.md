@@ -2,4 +2,4 @@
 
 Учебный проект Яндекс Практикума. Приложение позволяет искать видео по городу и времени суток и выбирать ролик для просмотра.
 
-[Репозиторий проекта](https://github.com/jst-Frenzy/posmotri-v-okno-ad)
+https://github.com/jst-Frenzy/posmotri-v-okno-ad
